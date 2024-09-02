@@ -1,8 +1,8 @@
-{
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-  }
+}
   
   body {
     font-family: Arial, sans-serif;
@@ -194,4 +194,22 @@ td img {
   margin: 0 auto; 
   max-width: 100%; 
   height: auto; 
+}
+
+.feedback {
+  text-align: center;
+  font-size: 50px;
+}
+
+.afeedback {
+  color: white;
+}
+a:hover {
+  color: red;
+}
+a:visited {
+  color: white;
+}
+a:active {
+  color: green;
 }
